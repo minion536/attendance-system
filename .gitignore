@@ -1,0 +1,5 @@
+__MACOSX/
+__pycache__/
+face-env/
+known_faces/
+.env
