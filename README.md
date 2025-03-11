@@ -3,6 +3,10 @@
 ## Overview
 The **Real-Time Face Recognition-Based Attendance System** is an AI-powered solution designed to automate attendance tracking using facial recognition. This system ensures accurate and efficient attendance management by leveraging computer vision and a MySQL database.
 
+![take attendace page](https://github.com/user-attachments/assets/d24ba5a0-54b0-477d-8e3f-cf73f97049bc)
+
+![view attendance page](https://github.com/user-attachments/assets/af7a4e9c-2f8a-4961-91db-b10fd341a2ce)
+
 ## Features
 - **Face Recognition:** Uses AI-based facial recognition for attendance marking.
 - **MySQL Database Integration:** Stores user details and attendance records.
